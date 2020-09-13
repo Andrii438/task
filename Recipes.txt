@@ -2,6 +2,7 @@ Welcome to my tutorial!
 Edited file
 
 
-
+Beans
+Pizza
 
 Thank you!!
